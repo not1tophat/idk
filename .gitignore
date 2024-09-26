@@ -1,0 +1,11 @@
+## Assets
+html_assets_cdn/
+html_renders_cdn/
+html_thumbs_cdn/
+## Misc
+html_data/Error/uploads/
+## Setup
+html_setup/*.txt
+html_setup/*.zip
+html_setup/*.exe
+!html_setup/cdn.txt
